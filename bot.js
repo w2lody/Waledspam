@@ -9,7 +9,7 @@ client.on('ready', async() => {
 var server = "570952802482782218"; // ايدي السررفر
 var channel = "617152221070491658";//ايدي الروم
     setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('#u,Hazard , Relo ,descccccccccccccccchhhh , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo , ')
+    client.guilds.get(server).channels.get(channel).send(' , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo ,#u,Hazard , Relo , ')
     },305);
 })
 
