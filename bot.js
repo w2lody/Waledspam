@@ -6,8 +6,8 @@ client.on('ready', () => {
 
 
 client.on('ready', async() => {
-var server = "570952802482782218"; // ايدي السررفر
-var channel = "617152221070491658";//ايدي الروم
+var server = "995779294854918204"; // ايدي السررفر
+var channel = "995779295349833911";//ايدي الروم
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send(' Relo the best ')
     },305);
